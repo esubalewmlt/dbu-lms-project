@@ -126,4 +126,4 @@ nb-configuration.xml
 /.phpunit.*.cache
 
 #acess token
-acess-token.text
+acess-token.txt
